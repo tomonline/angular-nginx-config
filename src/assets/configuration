@@ -1,0 +1,7 @@
+{
+    "gitVersion": "2.37.0",
+    "appName": "AngularNgixConfig",
+    "appVersion": "0.0.0",
+    "angularVersion": "18.0.1",
+    "toggleSwitch": true
+}
